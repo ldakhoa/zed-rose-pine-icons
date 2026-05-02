@@ -1,0 +1,22 @@
+{
+  "$schema": "https://zed.dev/schema/icon_themes/v0.3.0.json",
+  "name": "Rosé Pine Icons",
+  "author": "rose-pine (ported by ldakhoa1308)",
+  "themes": [
+    {
+      "name": "Rosé Pine Icons",
+      "appearance": "dark",
+      "directory_icons": {
+        "collapsed": "./icons/folder.svg",
+        "expanded": "./icons/folder-open.svg"
+      },
+      "file_icons": {
+        "default": { "path": "./icons/file.svg" },
+        "special": { "path": "./icons/file-special.svg" }
+      },
+      "file_stems": {
+        "pinecone.config": "special"
+      }
+    }
+  ]
+}
