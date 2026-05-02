@@ -11,8 +11,282 @@
         "expanded": "./icons/folder-open.svg"
       },
       "file_icons": {
-        "default": { "path": "./icons/file.svg" },
-        "special": { "path": "./icons/file-special.svg" }
+        "default": {
+          "path": "./icons/file.svg"
+        },
+        "special": {
+          "path": "./icons/file-special.svg"
+        },
+        "astro": {
+          "path": "./icons/file.svg"
+        },
+        "audio": {
+          "path": "./icons/file.svg"
+        },
+        "backup": {
+          "path": "./icons/file.svg"
+        },
+        "bicep": {
+          "path": "./icons/file.svg"
+        },
+        "bun": {
+          "path": "./icons/file.svg"
+        },
+        "c": {
+          "path": "./icons/file.svg"
+        },
+        "cairo": {
+          "path": "./icons/file.svg"
+        },
+        "code": {
+          "path": "./icons/file.svg"
+        },
+        "coffeescript": {
+          "path": "./icons/file.svg"
+        },
+        "cpp": {
+          "path": "./icons/file.svg"
+        },
+        "crystal": {
+          "path": "./icons/file.svg"
+        },
+        "csharp": {
+          "path": "./icons/file.svg"
+        },
+        "csproj": {
+          "path": "./icons/file.svg"
+        },
+        "css": {
+          "path": "./icons/file.svg"
+        },
+        "cue": {
+          "path": "./icons/file.svg"
+        },
+        "dart": {
+          "path": "./icons/file.svg"
+        },
+        "diff": {
+          "path": "./icons/file.svg"
+        },
+        "docker": {
+          "path": "./icons/file.svg"
+        },
+        "document": {
+          "path": "./icons/file.svg"
+        },
+        "editorconfig": {
+          "path": "./icons/file.svg"
+        },
+        "elixir": {
+          "path": "./icons/file.svg"
+        },
+        "elm": {
+          "path": "./icons/file.svg"
+        },
+        "erlang": {
+          "path": "./icons/file.svg"
+        },
+        "eslint": {
+          "path": "./icons/file.svg"
+        },
+        "font": {
+          "path": "./icons/file.svg"
+        },
+        "fsharp": {
+          "path": "./icons/file.svg"
+        },
+        "fsproj": {
+          "path": "./icons/file.svg"
+        },
+        "gitlab": {
+          "path": "./icons/file.svg"
+        },
+        "gleam": {
+          "path": "./icons/file.svg"
+        },
+        "go": {
+          "path": "./icons/file.svg"
+        },
+        "graphql": {
+          "path": "./icons/file.svg"
+        },
+        "haskell": {
+          "path": "./icons/file.svg"
+        },
+        "hcl": {
+          "path": "./icons/file.svg"
+        },
+        "helm": {
+          "path": "./icons/file.svg"
+        },
+        "heroku": {
+          "path": "./icons/file.svg"
+        },
+        "html": {
+          "path": "./icons/file.svg"
+        },
+        "image": {
+          "path": "./icons/file.svg"
+        },
+        "ipynb": {
+          "path": "./icons/file.svg"
+        },
+        "java": {
+          "path": "./icons/file.svg"
+        },
+        "javascript": {
+          "path": "./icons/file.svg"
+        },
+        "json": {
+          "path": "./icons/file.svg"
+        },
+        "julia": {
+          "path": "./icons/file.svg"
+        },
+        "kdl": {
+          "path": "./icons/file.svg"
+        },
+        "kotlin": {
+          "path": "./icons/file.svg"
+        },
+        "lock": {
+          "path": "./icons/file.svg"
+        },
+        "log": {
+          "path": "./icons/file.svg"
+        },
+        "lua": {
+          "path": "./icons/file.svg"
+        },
+        "luau": {
+          "path": "./icons/file.svg"
+        },
+        "markdown": {
+          "path": "./icons/file.svg"
+        },
+        "metal": {
+          "path": "./icons/file.svg"
+        },
+        "nim": {
+          "path": "./icons/file.svg"
+        },
+        "nix": {
+          "path": "./icons/file.svg"
+        },
+        "ocaml": {
+          "path": "./icons/file.svg"
+        },
+        "odin": {
+          "path": "./icons/file.svg"
+        },
+        "php": {
+          "path": "./icons/file.svg"
+        },
+        "prettier": {
+          "path": "./icons/file.svg"
+        },
+        "prisma": {
+          "path": "./icons/file.svg"
+        },
+        "puppet": {
+          "path": "./icons/file.svg"
+        },
+        "python": {
+          "path": "./icons/file.svg"
+        },
+        "r": {
+          "path": "./icons/file.svg"
+        },
+        "react": {
+          "path": "./icons/file.svg"
+        },
+        "roc": {
+          "path": "./icons/file.svg"
+        },
+        "ruby": {
+          "path": "./icons/file.svg"
+        },
+        "rust": {
+          "path": "./icons/file.svg"
+        },
+        "sass": {
+          "path": "./icons/file.svg"
+        },
+        "scala": {
+          "path": "./icons/file.svg"
+        },
+        "settings": {
+          "path": "./icons/file.svg"
+        },
+        "solidity": {
+          "path": "./icons/file.svg"
+        },
+        "storage": {
+          "path": "./icons/file.svg"
+        },
+        "stylelint": {
+          "path": "./icons/file.svg"
+        },
+        "surrealql": {
+          "path": "./icons/file.svg"
+        },
+        "svelte": {
+          "path": "./icons/file.svg"
+        },
+        "swift": {
+          "path": "./icons/file.svg"
+        },
+        "tcl": {
+          "path": "./icons/file.svg"
+        },
+        "template": {
+          "path": "./icons/file.svg"
+        },
+        "terminal": {
+          "path": "./icons/file.svg"
+        },
+        "terraform": {
+          "path": "./icons/file.svg"
+        },
+        "toml": {
+          "path": "./icons/file.svg"
+        },
+        "typescript": {
+          "path": "./icons/file.svg"
+        },
+        "v": {
+          "path": "./icons/file.svg"
+        },
+        "vbproj": {
+          "path": "./icons/file.svg"
+        },
+        "vcs": {
+          "path": "./icons/file.svg"
+        },
+        "video": {
+          "path": "./icons/file.svg"
+        },
+        "vs_sln": {
+          "path": "./icons/file.svg"
+        },
+        "vs_suo": {
+          "path": "./icons/file.svg"
+        },
+        "vue": {
+          "path": "./icons/file.svg"
+        },
+        "vyper": {
+          "path": "./icons/file.svg"
+        },
+        "wgsl": {
+          "path": "./icons/file.svg"
+        },
+        "yaml": {
+          "path": "./icons/file.svg"
+        },
+        "zig": {
+          "path": "./icons/file.svg"
+        }
       },
       "file_stems": {
         "pinecone.config": "special"
